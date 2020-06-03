@@ -7,6 +7,7 @@
 - J2EE
 - Hibernate
 - MySQL
+- HTML/CSS
 
 ## ScreenShot
 ![Login Page](screenshots/login_page.png)
