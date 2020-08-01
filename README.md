@@ -1,7 +1,5 @@
 # Library-Management-System
 
-## It is still in progress
-
 ## Technology Used :
 - JAVA
 - J2EE
