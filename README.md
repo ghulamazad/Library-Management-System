@@ -8,7 +8,7 @@
 - HTML/CSS
 - JavaScript
 
-## Coming soon spring-boot project
+## Coming soon Django project
 
 ## ScreenShot
 ![Login Page](screenshots/login_page.png)
