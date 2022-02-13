@@ -8,8 +8,6 @@
 - HTML/CSS
 - JavaScript
 
-## Coming soon Django project
-
 ## ScreenShot
 ![Login Page](screenshots/login_page.png)
 ![Dashboard Page](screenshots/Admin_Page.png)
